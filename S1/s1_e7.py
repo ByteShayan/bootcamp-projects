@@ -1,2 +1,2 @@
 #s1_e7
-print("Hello" + input("Enter your name :") + "." )
+print("Hello" + "\n""dear "  + input( "Enter your name :") + "." )
